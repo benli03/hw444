@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Li_Benjamin _HW4.props" />
+</Project>
